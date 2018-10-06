@@ -1,4 +1,6 @@
 # PyMicroChat
+Wechat(Android协议) Python API. Forked from https://github.com/LSilent/PyMicroChat
+
 
 ## 声明：本项目仅用于通信方面知识的学习交流，请勿用于非法用途.  
 

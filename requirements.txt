@@ -5,7 +5,7 @@ chardet==3.0.4
 colorama==0.3.9
 idna==2.6
 protobuf==3.5.2.post1
-pycryptodome==3.5.1
+pycryptodome==3.6.6
 PyQt5==5.10.1
 requests==2.18.4
 sip==4.19.8
